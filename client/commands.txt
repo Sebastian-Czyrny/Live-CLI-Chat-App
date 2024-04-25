@@ -1,0 +1,6 @@
+/login someclient 1234567890 ug140 55000
+/login ts beez ug140 55000
+/login tst beezer ug140 55000
+/createsession b
+/joinsession b
+/list
