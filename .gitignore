@@ -1,3 +1,7 @@
+# executables
+client
+server
+
 # Prerequisites
 *.d
 
